@@ -1,0 +1,21 @@
+div {
+    margin: 5%;
+    
+     }
+    
+     div .One {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        background-color: green;
+        border: 3px solid black;
+        margin: 4px;
+     }
+    
+     div .One:nth-child(even) {
+        
+    background-color: yellow;
+    margin: 30px 10px 50px 10px;
+    
+     }
+    

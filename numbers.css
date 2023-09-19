@@ -1,0 +1,23 @@
+
+    
+
+     div .One {
+        display: inline-block;
+        margin: 1%;
+        width: 80px;
+        height: 40px;
+        background-color: red;
+        border: 2px solid black;
+        text-align: center;
+        color: white;
+        margin-top: 20px;
+        font-size: 30px;
+        
+    
+    }
+    
+    .One:nth-child(even) {
+    
+        display: none;
+    }
+    
